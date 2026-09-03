@@ -1,3 +1,4 @@
+//{{-- Dashboard Admin - dikelola oleh Faradita --}}
 (function () {
   "use strict";
 
